@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_file">Couldn\'t find the selected image</string>
+    <string name="dropbox_error">Couldn\'t upload the selected image to the dropbox</string>
+    <string name="uri_error">Uri Syntax from the image incorrect</string>    
+    <string name="dropbox_unlinked">This app wasn\'t authenticated properly</string>
+    <string name="file_too_big">The file is too big</string>
+    <string name="upload_cancelled">Upload cancelled</string>
+    <string name="network_error">Network error.  Try again</string>
+    <string name="dropbox_server_error">Dropbox error.  Try again</string>
+    <string name="unknown_error">Unknown error.  Try again</string>
+    <string name="io_error">Couldn\'t read file</string>
+</resources>

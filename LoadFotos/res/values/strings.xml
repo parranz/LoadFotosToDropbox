@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LoadFotos</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout">Change Dropbox User</string>
+    <string name="loadgallerybutton">Load from the gallery</string>
+    <string name="fotobutton">Make a foto</string>
+    <string name="selectImage">Select Image</string>
+    <string name="upload_ok">The file is being uploaded</string>
+	<string name="upload_finished_successfully">The upload finished successfully</string>
+	<string name="process_completed">Process completed</string>
+	<string name="uploading_file">Uploading </string>
+		
+</resources>
